@@ -1,0 +1,8 @@
+---
+title: "Asesoramiento por LinkedIn"
+date: 2025-05-05
+draft: false
+url: "https://www.linkedin.com/in/tu-perfil/"
+---
+
+¿Prefieres contacto por LinkedIn? Escríbenos directamente en nuestro perfil profesional.
