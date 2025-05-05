@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+Sitemap: http://localhost:1313/GF_HP_DJ/sitemap.xml
